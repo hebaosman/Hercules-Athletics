@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hercules Athletics</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hercules">Hercules Athletics</string>
+    <string name="HumanBody">Human Body Image</string>
+    <string name="typeface_capsuula"> fonts/capsuula.ttf</string>
+
+</resources>
